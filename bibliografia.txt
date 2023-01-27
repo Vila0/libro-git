@@ -1,2 +1,2 @@
-< Chacon, S. and Straub, B. Pro Git. Apress.
-[A[B
+- Chacon, S. and Straub, B. Pro Git. Apress.
+
